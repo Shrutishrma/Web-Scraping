@@ -2,7 +2,7 @@
 
 This repository contains automated web scraping scripts and data extraction pipelines. I built this toolkit to efficiently gather, parse, and structure raw data from websites, which is the critical first step for building custom datasets for machine learning and data analysis.
 
-### **What I Built **
+### What I Built
 * **Automated Data Collectors:** Python scripts that automatically visit web pages, read the HTML, and extract the exact information I need (like text, links, or tables).
 * **Multiple Frameworks:** The project isn't just one script; it includes different approaches. I used **BeautifulSoup** for quick HTML parsing and **Scrapy** for handling larger, more complex data extraction tasks.
 * **Structured Export:** The tools take messy web data and clean it up, organizing it into structured formats (like CSVs or DataFrames) so it is immediately ready for data science analysis.
